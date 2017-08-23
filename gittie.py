@@ -20,3 +20,6 @@ add()
 >>>>>>> 9e6907d972a29cc4aa83bd7a8fe9c33593b7b191
 def joke():
     print("Random joke.")
+
+def shout():
+    print("!!!!")
