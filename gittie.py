@@ -17,3 +17,6 @@ def joke():
 
 def shout():
     print("!!!!")
+
+def random_funstion():
+    print("Coś tam")
